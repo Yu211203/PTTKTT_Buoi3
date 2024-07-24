@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\2033210998_NguyenThiThuXuyen_Buoi3\PTTKTT_Buoi3\PTTKTT_Buoi3\bin\Debug\PTTKTT_Buoi3.exe.config
+E:\LuuDuLieuSinhVien\2033210998_NguyenThiThuXuyen_Buoi3\PTTKTT_Buoi3\PTTKTT_Buoi3\bin\Debug\PTTKTT_Buoi3.exe
+E:\LuuDuLieuSinhVien\2033210998_NguyenThiThuXuyen_Buoi3\PTTKTT_Buoi3\PTTKTT_Buoi3\bin\Debug\PTTKTT_Buoi3.pdb
+E:\LuuDuLieuSinhVien\2033210998_NguyenThiThuXuyen_Buoi3\PTTKTT_Buoi3\PTTKTT_Buoi3\obj\Debug\PTTKTT_Buoi3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033210998_NguyenThiThuXuyen_Buoi3\PTTKTT_Buoi3\PTTKTT_Buoi3\obj\Debug\PTTKTT_Buoi3.exe
+E:\LuuDuLieuSinhVien\2033210998_NguyenThiThuXuyen_Buoi3\PTTKTT_Buoi3\PTTKTT_Buoi3\obj\Debug\PTTKTT_Buoi3.pdb
