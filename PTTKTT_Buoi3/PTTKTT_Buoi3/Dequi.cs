@@ -8,7 +8,7 @@ namespace PTTKTT_Buoi3
 {
     class Dequi
     {
-         public int SumDivideAndConquerRecursive(int[] arr,int left, int right)
+         public int SumDivideAndConquerRecursion(int[] arr,int left, int right)
         {
             int mid = (left + right) / 2;
 
@@ -17,8 +17,8 @@ namespace PTTKTT_Buoi3
                 return left;
             }
 
-            int totalSumLeft = SumDivideAndConquerRecursive(arr, left, mid);
-            int totalSumRight = SumDivideAndConquerRecursive(arr, mid + 1, right);
+            int totalSumLeft = SumDivideAndConquerRecursion(arr, left, mid);
+            int totalSumRight = SumDivideAndConquerRecursion(arr, mid + 1, right);
             return totalSumLeft + totalSumRight;
         }
     }
